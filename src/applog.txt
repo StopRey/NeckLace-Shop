@@ -1,0 +1,457 @@
+Вивід меню програми
+Вивід меню програми
+Вивід меню програми
+Вивід меню програми
+Opened "Shop Goods" menu
+Вивід меню програми
+Opened "Shop Goods" menu
+Вивід меню програми
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+
+-----------------------------------
+New Process Started
+Opened app menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+Opened app menu
+Opened "Basket" menu
+Opened "Make Order" menu
+Opened app menu
+Opened "Create Your Necklace" menu
+Opened "Sort Stone" menu
+Sorted by Weight from Lowest to Highest
+Opened "Find with Range" menu
+Range by Price( 100.0 - 4000.0 )
+Necklace was added to Basket
+Opened app menu
+Input Error
+
+-----------------------------------
+New Process Started
+Opened app menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+Opened app menu
+
+-----------------------------------
+New Process Started
+Opened app menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Input Error
+
+-----------------------------------
+New Process Started
+Opened app menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Input Error
+
+-----------------------------------
+New Process Started
+Opened app menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Input Error
+
+-----------------------------------
+New Process Started
+Opened app menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Input Error
+Opened "Shop Goods" menu
+Necklace №5 Added to Basket
+Necklace №2 Added to Basket
+Necklace №4 Added to Basket
+Opened app menu
+Opened "Basket" menu
+Opened app menu
+
+-----------------------------------
+New Process Started
+Opened app menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+Input Error
+Necklace №2 Added to Basket
+Necklace №4 Added to Basket
+Opened app menu
+Opened "Create Your Necklace" menu
+Opened "Add Stone" menu
+Citrine added to Necklace
+Opened "Add Stone" menu
+Bloodstone added to Necklace
+Opened "Add Stone" menu
+Garnet added to Necklace
+Opened "Add Stone" menu
+Coral added to Necklace
+Necklace was not added to Basket
+Opened app menu
+Opened "Create Your Necklace" menu
+Opened "Sort Stone" menu
+Sorted by Transparency from Highest to Lowest
+Opened "Add Stone" menu
+Diamond added to Necklace
+Opened "Add Stone" menu
+Emerald added to Necklace
+Opened "Find with Range" menu
+Range by Price( 400.0 - 500.0 )
+Opened "Add Stone" menu
+Diamond added to Necklace
+Necklace was added to Basket
+Opened app menu
+Process Ended
+Sapphire added to Necklace
+Opened "Make Order" menu
+Opened "Shop Goods" menu
+7
+-----------------------------------
+New Process Started
+Opened app menu
+55
+-----------------------------------
+New Process Started
+Opened app menu
+7:40:39
+-----------------------------------
+New Process Started
+Opened app menu
+
+-----------------------------------
+7:41:58New Process Started
+Opened app menu
+7:43:0
+-----------------------------------
+New Process Started
+Opened app menu
+7:43:37-----------------------------------
+New Process Started
+Opened app menu
+2023-11-4 7:46:18New Process Started
+Opened app menu
+2023-11-4 7:47:31 INFO New Process Started
+Opened app menu
+2023-11-4 7:48:34 [32mINFO[0m New Process Started
+Opened app menu
+2023-11-4 7:49:46 [36mINFO[0m New Process Started
+Opened app menu
+2023-11-4 7:50:27 INFO New Process Started
+Opened app menu
+Opened "Shop Goods" menu
+Opened "Add Necklace in Basket" menu
+Opened "Shop Goods" menu
+2023-11-4 7:56:59 INFO  New Process Started
+2023-11-4 7:56:59 INFO  Opened app menu
+2023-11-4 7:57:1 INFO  Opened "Shop Goods" menu
+2023-11-4 7:57:2 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 7:57:2 INFO  Opened "Shop Goods" menu
+2023-11-4 7:57:3 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 7:57:4 INFO  Opened "Shop Goods" menu
+2023-11-4 7:57:4 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 7:57:5 INFO  Opened "Shop Goods" menu
+2023-11-4 7:57:5 INFO  Necklace №4 Added to Basket
+2023-11-4 7:57:5 INFO  Necklace №3 Added to Basket
+2023-11-4 7:57:5 INFO  Necklace №2 Added to Basket
+2023-11-4 7:57:5 INFO  Opened app menu
+2023-11-4 7:57:6 INFO  Opened "Create Your Necklace" menu
+2023-11-4 7:57:8 INFO  Opened "Add Stone" menu
+2023-11-4 7:57:8 INFO  Diamond added to Necklace
+2023-11-4 7:57:9 INFO  Opened "Add Stone" menu
+2023-11-4 7:57:9 INFO  Citrine added to Necklace
+2023-11-4 7:57:10 INFO  Opened "Sort Stone" menu
+2023-11-4 7:57:11 INFO  Sorted by Price from Lowest to Highest
+2023-11-4 7:57:12 INFO  Opened "Find with Range" menu
+2023-11-4 7:57:16 INFO  Range by Price( 300.0 - 450.0 )
+2023-11-4 7:57:17 INFO  Opened "Add Stone" menu
+2023-11-4 7:57:18 INFO  Garnet added to Necklace
+2023-11-4 7:57:19 INFO  Opened "Add Stone" menu
+2023-11-4 7:57:19 INFO  Coral added to Necklace
+2023-11-4 7:57:21 INFO  Necklace was added to Basket
+2023-11-4 7:57:21 INFO  Opened app menu
+2023-11-4 7:57:24 INFO  Opened "Basket" menu
+2023-11-4 7:57:25 INFO  Opened "Check Necklace" menu
+2023-11-4 7:57:28 INFO  Opened "Basket" menu
+2023-11-4 7:57:30 INFO  Opened "Make Order" menu
+2023-11-4 7:57:30 INFO  Opened app menu
+2023-11-4 7:57:33 INFO  Process Ended
+2023-11-4 8:9:9 INFO  Sapphire added to Necklace
+2023-11-4 8:9:9 INFO  Opened "Make Order" menu
+2023-11-4 8:9:9 INFO  Opened "Shop Goods" menu
+2023-11-4 8:9:14 INFO  New Process Started
+2023-11-4 8:9:14 INFO  Opened app menu
+2023-11-4 8:9:17 INFO  Opened "Shop Goods" menu
+2023-11-4 8:9:18 INFO  Opened app menu
+2023-11-4 8:9:18 INFO  Opened "Shop Goods" menu
+2023-11-4 8:9:19 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 8:9:20 INFO  Opened "Shop Goods" menu
+2023-11-4 8:9:21 INFO  Necklace №2 Added to Basket
+2023-11-4 8:9:21 INFO  Opened app menu
+2023-11-4 8:31:7 INFO  New Process Started
+2023-11-4 8:31:7 INFO  Opened app menu
+2023-11-4 8:49:58 INFO  New Process Started
+2023-11-4 8:49:58 INFO  Opened app menu
+2023-11-4 8:56:18 INFO  Message sended to gerasymenk@gmail.com( як справи )
+2023-11-4 8:56:18 INFO  New Process Started
+2023-11-4 8:56:18 INFO  Opened app menu
+2023-11-4 8:57:21 INFO  New Process Started
+2023-11-4 8:57:21 INFO  Opened app menu
+2023-11-4 8:57:24 INFO  Opened "Shop Goods" menu
+2023-11-4 8:57:26 INFO  Opened app menu
+2023-11-4 8:57:27 INFO  Opened "Create Your Necklace" menu
+2023-11-4 9:3:28 INFO  New Process Started
+2023-11-4 9:3:28 INFO  Opened app menu
+2023-11-4 9:3:30 INFO  Opened "Create Your Necklace" menu
+2023-11-4 9:3:31 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:32 INFO  Ruby added to Necklace
+2023-11-4 9:3:32 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:33 INFO  Ruby added to Necklace
+2023-11-4 9:3:33 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:34 INFO  Ruby added to Necklace
+2023-11-4 9:3:34 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:35 INFO  Ruby added to Necklace
+2023-11-4 9:3:36 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:37 INFO  Ruby added to Necklace
+2023-11-4 9:3:37 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:38 INFO  Ruby added to Necklace
+2023-11-4 9:3:38 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:39 INFO  Ruby added to Necklace
+2023-11-4 9:3:39 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:40 INFO  Amethyst added to Necklace
+2023-11-4 9:3:40 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:41 INFO  Amethyst added to Necklace
+2023-11-4 9:3:41 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:41 INFO  Citrine added to Necklace
+2023-11-4 9:3:47 INFO  Opened "Add Stone" menu
+2023-11-4 9:3:54 INFO  Message sended to gerasymenk@gmail.com( The program gave an error because the user is trying to add stones to an already overflowing necklace )
+2023-11-4 9:3:54 ERROR  There are more than 10 Stones in the Necklace
+2023-11-4 9:4:9 INFO  Opened "Add Stone" menu
+2023-11-4 9:4:16 INFO  Message sended to gerasymenk@gmail.com( The program gave an error because the user is trying to add stones to an already overflowing necklace )
+2023-11-4 9:4:16 ERROR  There are more than 10 Stones in the Necklace
+2023-11-4 9:4:21 INFO  Necklace was added to Basket
+2023-11-4 9:4:21 INFO  Opened app menu
+2023-11-4 9:4:41 INFO  Opened "Basket" menu
+2023-11-4 9:4:47 INFO  Opened "Check Necklace" menu
+2023-11-4 9:5:0 INFO  Opened "Basket" menu
+2023-11-4 9:5:5 INFO  Opened app menu
+2023-11-4 9:5:6 INFO  Opened "Create Your Necklace" menu
+2023-11-4 9:5:9 INFO  Opened "Add Stone" menu
+2023-11-4 9:5:9 INFO  Ruby added to Necklace
+2023-11-4 9:5:25 INFO  New Process Started
+2023-11-4 9:5:25 INFO  Opened app menu
+2023-11-4 9:5:26 INFO  Opened "Shop Goods" menu
+2023-11-4 9:5:27 INFO  Opened app menu
+2023-11-4 9:5:28 INFO  Opened "Create Your Necklace" menu
+2023-11-4 9:5:31 INFO  Opened "Add Stone" menu
+2023-11-4 9:5:32 INFO  Emerald added to Necklace
+2023-11-4 9:20:45 INFO  New Process Started
+2023-11-4 9:20:45 INFO  Opened app menu
+2023-11-4 9:20:48 INFO  Opened "Shop Goods" menu
+2023-11-4 9:20:49 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:20:49 INFO  Opened "Shop Goods" menu
+2023-11-4 9:20:50 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:20:50 INFO  Input Error
+2023-11-4 9:20:50 INFO  Opened "Shop Goods" menu
+2023-11-4 9:20:51 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:20:52 INFO  Opened "Shop Goods" menu
+2023-11-4 9:20:53 INFO  Necklace №3 Added to Basket
+2023-11-4 9:20:53 INFO  Necklace №5 Added to Basket
+2023-11-4 9:20:53 INFO  Necklace №2 Added to Basket
+2023-11-4 9:20:53 INFO  Opened app menu
+2023-11-4 9:20:54 INFO  Opened "Basket" menu
+2023-11-4 9:21:8 INFO  Opened "Make Order" menu
+2023-11-4 9:21:14 INFO  Message sended to gerasymenk@gmail.com( Ви зробили замовлення в нашому магазині на суму: 6450.0 UAH )
+2023-11-4 9:21:14 INFO  created an order( 6450.0 UAH )
+2023-11-4 9:21:14 INFO  Opened app menu
+2023-11-4 9:21:42 INFO  Opened "Basket" menu
+2023-11-4 9:21:43 INFO  Opened "Make Order" menu
+2023-11-4 9:21:49 INFO  Message sended to gerasymenk@gmail.com( The program gave an error because the user is trying to add stones to an already overflowing necklace )
+2023-11-4 9:21:49 ERROR  Error while trying to Order an empty Basket
+2023-11-4 9:21:49 INFO  Opened "Basket" menu
+2023-11-4 9:23:17 INFO  New Process Started
+2023-11-4 9:23:17 INFO  Opened app menu
+2023-11-4 9:23:22 INFO  Opened "Shop Goods" menu
+2023-11-4 9:23:30 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:23:31 INFO  Opened "Shop Goods" menu
+2023-11-4 9:23:31 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:23:31 INFO  Opened "Shop Goods" menu
+2023-11-4 9:23:32 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:23:32 INFO  Input Error
+2023-11-4 9:23:32 INFO  Opened "Shop Goods" menu
+2023-11-4 9:23:33 INFO  Necklace №5 Added to Basket
+2023-11-4 9:23:33 INFO  Necklace №3 Added to Basket
+2023-11-4 9:23:33 INFO  Necklace №4 Added to Basket
+2023-11-4 9:23:33 INFO  Opened app menu
+2023-11-4 9:24:2 INFO  Opened "Create Your Necklace" menu
+2023-11-4 9:24:3 INFO  Opened "Add Stone" menu
+2023-11-4 9:24:4 INFO  Bloodstone added to Necklace
+2023-11-4 9:24:6 INFO  Opened "Add Stone" menu
+2023-11-4 9:24:7 INFO  Amethyst added to Necklace
+2023-11-4 9:24:20 INFO  Necklace was added to Basket
+2023-11-4 9:24:20 INFO  Opened app menu
+2023-11-4 9:24:22 INFO  Opened "Basket" menu
+2023-11-4 9:24:23 INFO  Opened "Check Necklace" menu
+2023-11-4 9:26:43 INFO  New Process Started
+2023-11-4 9:26:43 INFO  Opened app menu
+2023-11-4 9:26:44 INFO  Opened "Shop Goods" menu
+2023-11-4 9:26:45 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:26:46 INFO  Opened "Shop Goods" menu
+2023-11-4 9:26:46 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:26:47 INFO  Opened "Shop Goods" menu
+2023-11-4 9:26:47 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 9:26:48 INFO  Input Error
+2023-11-4 9:26:48 INFO  Opened "Shop Goods" menu
+2023-11-4 9:26:51 INFO  Necklace №5 Added to Basket
+2023-11-4 9:26:51 INFO  Necklace №4 Added to Basket
+2023-11-4 9:26:51 INFO  Necklace №3 Added to Basket
+2023-11-4 9:26:51 INFO  Opened app menu
+2023-11-4 9:26:53 INFO  Opened "Basket" menu
+2023-11-4 9:26:55 INFO  Opened "Check Necklace" menu
+2023-11-4 9:26:56 INFO  Input Error
+2023-11-4 9:26:59 INFO  Opened "Basket" menu
+2023-11-4 9:27:13 INFO  Opened "Make Order" menu
+2023-11-4 9:27:19 INFO  Message sended to gerasymenk@gmail.com( Ви зробили замовлення в нашому магазині на суму: 5900.0 UAH )
+2023-11-4 9:27:19 INFO  created an order( 5900.0 UAH )
+2023-11-4 9:27:19 INFO  Opened app menu
+2023-11-4 10:38:58 INFO  New Process Started
+2023-11-4 10:46:27 INFO  Sapphire added to Necklace
+2023-11-4 10:46:27 INFO  Opened "Make Order" menu
+2023-11-4 10:46:32 INFO  New Process Started
+2023-11-4 10:46:32 INFO  Opened app menu
+2023-11-4 10:46:33 INFO  Message sended to gerasymenk@gmail.com( Ви зробили замовлення в нашому магазині на суму: 2500.0 UAH )
+2023-11-4 10:46:33 INFO  created an order( 2500.0 UAH )
+2023-11-4 10:46:33 INFO  Opened "Shop Goods" menu
+2023-11-4 10:46:34 INFO  Opened "Shop Goods" menu
+2023-11-4 10:46:35 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 10:46:36 INFO  Opened "Shop Goods" menu
+2023-11-4 10:46:36 INFO  Opened "Add Necklace in Basket" menu
+2023-11-4 10:46:37 INFO  Opened "Shop Goods" menu
+2023-11-4 10:46:38 INFO  Necklace №3 Added to Basket
+2023-11-4 10:46:38 INFO  Necklace №2 Added to Basket
+2023-11-4 10:46:38 INFO  Opened app menu
+2023-11-4 10:46:39 INFO  Opened "Basket" menu
+2023-11-4 10:46:41 INFO  Opened "Make Order" menu
+2023-11-4 10:46:47 INFO  Message sended to gerasymenk@gmail.com( Ви зробили замовлення в нашому магазині на суму: 4750.0 UAH )
+2023-11-4 10:46:47 INFO  created an order( 4750.0 UAH )
+2023-11-4 10:46:47 INFO  Opened app menu
+2023-11-4 10:46:49 INFO  Opened "Basket" menu
+2023-11-4 10:46:50 INFO  Opened "Make Order" menu
+2023-11-4 10:46:55 INFO  Message sended to gerasymenk@gmail.com( The program gave an Error because the User is trying to order an empty Basket )
+2023-11-4 10:46:55 ERROR  Error while trying to Order an empty Basket
+2023-11-4 10:46:55 INFO  Opened "Basket" menu
+2023-11-4 10:46:56 INFO  Opened app menu
+2023-11-11 10:25:7 INFO  New Process Started
+2023-11-11 10:25:7 INFO  Opened app menu
+2023-11-12 2:1:36 INFO  New Process Started
+2023-11-12 2:1:36 INFO  Opened app menu
+2023-11-12 2:1:39 INFO  Opened "Shop Goods" menu
+2023-11-12 2:1:40 INFO  Opened "Add Necklace in Basket" menu
+2023-11-12 2:1:40 INFO  Opened "Shop Goods" menu
+2023-11-12 2:1:42 INFO  Opened "Add Necklace in Basket" menu
+2023-11-12 2:1:43 INFO  Opened "Shop Goods" menu
+2023-11-12 2:1:44 INFO  Necklace №4 Added to Basket
+2023-11-12 2:1:44 INFO  Necklace №2 Added to Basket
+2023-11-12 2:1:44 INFO  Opened app menu
+2023-11-12 2:1:45 INFO  Opened "Basket" menu
+2023-11-12 2:2:22 INFO  Opened app menu
+2023-11-12 2:2:29 INFO  Opened "Basket" menu
+2023-11-12 2:2:31 INFO  Opened "Make Order" menu
+2023-11-12 2:2:37 INFO  Message sended to gerasymenk@gmail.com( Ви зробили замовлення в нашому магазині на суму: 3950.0 UAH )
+2023-11-12 2:2:37 INFO  created an order( 3950.0 UAH )
+2023-11-12 2:2:37 INFO  Opened app menu
+2023-11-12 2:2:41 INFO  Opened "Basket" menu
+2023-11-12 2:2:42 INFO  Opened "Make Order" menu
+2023-11-12 2:2:48 INFO  Message sended to gerasymenk@gmail.com( The program gave an Error because the User is trying to order an empty Basket )
+2023-11-12 2:2:48 ERROR  Error while trying to Order an empty Basket
+2023-11-12 2:2:48 INFO  Opened "Basket" menu
+2023-11-12 2:14:5 INFO  New Process Started
+2023-11-12 2:14:5 INFO  Opened app menu
+2023-11-12 5:50:24 INFO  New Process Started
+2023-11-12 5:50:25 INFO  Opened app menu
+2023-11-12 5:50:30 INFO  Opened "Shop Goods" menu
+2023-11-12 5:50:31 INFO  Opened "Add Necklace in Basket" menu
+2023-11-12 5:50:33 INFO  Opened "Shop Goods" menu
+2023-11-12 5:50:33 INFO  Opened "Add Necklace in Basket" menu
+2023-11-12 5:50:34 INFO  Opened "Shop Goods" menu
+2023-11-12 5:50:35 INFO  Necklace №4 Added to Basket
+2023-11-12 5:50:35 INFO  Necklace №3 Added to Basket
+2023-11-12 5:50:35 INFO  Opened app menu
+2023-11-12 5:50:38 INFO  Opened "Basket" menu
+2023-11-12 5:50:41 INFO  Opened app menu
+2023-11-12 5:50:42 INFO  Opened "Create Your Necklace" menu
+2023-11-12 5:50:43 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:44 INFO  Diamond added to Necklace
+2023-11-12 5:50:45 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:45 INFO  Aquamarine added to Necklace
+2023-11-12 5:50:45 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:46 INFO  Coral added to Necklace
+2023-11-12 5:50:47 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:48 INFO  Garnet added to Necklace
+2023-11-12 5:50:49 INFO  Opened "Sort Stone" menu
+2023-11-12 5:50:50 INFO  Sorted by Price from Lowest to Highest
+2023-11-12 5:50:55 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:55 INFO  Coral added to Necklace
+2023-11-12 5:50:56 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:56 INFO  Coral added to Necklace
+2023-11-12 5:50:57 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:57 INFO  Coral added to Necklace
+2023-11-12 5:50:57 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:58 INFO  Coral added to Necklace
+2023-11-12 5:50:58 INFO  Opened "Add Stone" menu
+2023-11-12 5:50:59 INFO  Coral added to Necklace
+2023-11-12 5:51:1 INFO  Opened "Add Stone" menu
+2023-11-12 5:51:2 INFO  Garnet added to Necklace
+2023-11-12 5:51:5 INFO  Opened "Add Stone" menu
+2023-11-12 5:51:11 INFO  Message sended to gerasymenk@gmail.com( The program gave an error because the user is trying to add stones to an already overflowing necklace )
+2023-11-12 5:51:11 ERROR  An error Occurred when trying to add a Stone to an Overflowing Necklace
+2023-11-12 5:51:23 INFO  Necklace was added to Basket
+2023-11-12 5:51:23 INFO  Opened app menu
+2023-11-12 5:51:25 INFO  Opened "Basket" menu
+2023-11-12 5:51:29 INFO  Opened "Make Order" menu
+2023-11-12 5:51:35 INFO  Message sended to gerasymenk@gmail.com( Ви зробили замовлення в нашому магазині на суму: 9500.0 UAH )
+2023-11-12 5:51:35 INFO  created an order( 9500.0 UAH )
+2023-11-12 5:51:35 INFO  Opened app menu
+2023-11-12 5:51:41 INFO  Process Ended
+2023-11-12 7:18:42 INFO  New Process Started
+2023-11-12 7:18:42 INFO  Opened app menu
+2023-11-12 7:18:45 INFO  Opened "Shop Goods" menu
+2023-11-12 7:18:46 INFO  Opened "Add Necklace in Basket" menu
+2023-11-12 7:18:47 INFO  Opened "Shop Goods" menu
+2023-11-12 7:18:48 INFO  Opened "Add Necklace in Basket" menu
+2023-11-12 7:18:48 INFO  Opened "Shop Goods" menu
+2023-11-12 7:18:49 INFO  Necklace №3 Added to Basket
+2023-11-12 7:18:49 INFO  Necklace №2 Added to Basket
+2023-11-12 7:18:49 INFO  Opened app menu
+2023-11-12 7:18:50 INFO  Opened "Basket" menu
+2023-11-12 7:18:53 INFO  Opened "Make Order" menu
+2023-11-12 7:18:59 INFO  Message sended to gerasymenk@gmail.com( Ви зробили замовлення в нашому магазині на суму: 4750.0 UAH )
+2023-11-12 7:18:59 INFO  created an order( 4750.0 UAH )
+2023-11-12 7:18:59 INFO  Opened app menu
+2024-1-27 0:23:33 INFO  New Process Started
+2024-1-27 0:23:33 INFO  Opened app menu
+2024-1-27 0:23:35 INFO  Opened "Shop Goods" menu
+2024-1-27 0:23:37 INFO  Opened "Add Necklace in Basket" menu
+2024-1-27 0:23:38 INFO  Opened "Shop Goods" menu
+2024-1-27 0:23:39 INFO  Opened "Add Necklace in Basket" menu
+2024-1-27 0:23:40 INFO  Opened "Shop Goods" menu
+2024-1-27 0:23:40 INFO  Opened "Add Necklace in Basket" menu
+2024-1-27 0:23:41 INFO  Opened "Shop Goods" menu
+2024-1-27 0:23:42 INFO  Necklace №3 Added to Basket
+2024-1-27 0:23:42 INFO  Necklace №2 Added to Basket
+2024-1-27 0:23:42 INFO  Necklace №3 Added to Basket
+2024-1-27 0:23:42 INFO  Opened app menu
+2024-1-27 0:23:43 INFO  Opened "Basket" menu
+2024-1-27 0:23:44 INFO  Opened "Check Necklace" menu
