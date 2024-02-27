@@ -1,0 +1,1 @@
+Prototype necklace shop. You can choose ready-made necklaces or create your own. The presence of a basket and the possibility to order its contents with information sent to the mail. Availability of visualization of the necklace in the console.
